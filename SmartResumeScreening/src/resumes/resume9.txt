@@ -1,0 +1,45 @@
+Name: Rohan Singh
+
+Email: rohan.singh@example.com
+
+Phone: 9000001006
+
+Location: Delhi
+
+Career Objective:
+Results-driven Software Developer seeking an opportunity to build scalable applications and apply strong programming, backend development, and problem-solving skills in a growth-oriented organization.
+
+Education:
+B.Tech (http://B.Tech/) in Information Technology
+Delhi Technological University
+CGPA: 8.7
+
+Skills:
+Java, Python, C++, Spring Boot, PostgreSQL, Docker, Git, REST APIs, Linux, Data Structures, Algorithms
+
+Experience:
+2.5 years
+
+Projects:
+1. Inventory Management System
+   Developed a backend application for managing product inventory and stock levels.
+   Implemented REST APIs using Spring Boot and PostgreSQL.
+
+2. Real-Time Chat Application
+   Built a web-based messaging application with user authentication and real-time communication.
+   Implemented message storage and user management using Java and SQL.
+
+Certifications:
+Docker and Kubernetes Fundamentals
+Oracle Certified Professional: Java SE
+
+Achievements:
+- Solved 400+ programming problems on LeetCode and CodeChef.
+- Secured a top-10 position in a national coding contest.
+- Conducted technical sessions on Java and backend development.
+
+Languages:
+English, Hindi, Punjabi
+
+Interests:
+Backend Development, System Design, Open Source Software

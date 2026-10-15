@@ -1,0 +1,16 @@
+Software Developer
+
+We are looking for a Software Developer with strong knowledge of Java, Python, SQL, Data Structures, and Algorithms.
+
+Preferred Skills:
+Spring Boot, AWS, MySQL
+
+Candidates should have at least 2 years of experience.
+
+AWS certification is preferred.
+
+Responsibilities:
+- Develop scalable applications
+- Design database systems
+- Work with cloud platforms
+

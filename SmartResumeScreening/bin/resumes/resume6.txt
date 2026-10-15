@@ -1,0 +1,45 @@
+Name: Vikram Reddy
+
+Email: vikram.reddy@example.com
+
+Phone: 9000001003
+
+Location: Hyderabad
+
+Career Objective:
+Motivated Software Engineer seeking an opportunity to develop reliable applications using Java, Spring Boot, databases, and cloud technologies while continuously improving technical skills.
+
+Education:
+B.Tech (http://B.Tech/) in Computer Science Engineering
+Mahindra University
+CGPA: 8.5
+
+Skills:
+Java, Spring Boot, SQL, MySQL, AWS, Docker, Git, Microservices, REST APIs, Data Structures
+
+Experience:
+3 years
+
+Projects:
+1. Employee Leave Management System
+   Developed a Spring Boot application for employee leave requests and approvals.
+   Integrated MySQL for employee and leave records.
+
+2. Payment Processing API
+   Built REST APIs for payment transaction workflows.
+   Added validation, exception handling, and transaction logging.
+
+Certifications:
+AWS Certified Developer – Associate
+Spring Boot Certification
+
+Achievements:
+- Solved 350+ coding problems across online coding platforms.
+- Mentored junior developers in Java fundamentals.
+- Participated in a corporate innovation challenge.
+
+Languages:
+English, Telugu, Hindi
+
+Interests:
+Microservices, Cloud Computing, System Design

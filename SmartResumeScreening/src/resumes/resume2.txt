@@ -1,0 +1,34 @@
+Name: Ananya Reddy
+
+Email: ananya@gmail.com
+
+Phone: 9988776655
+
+Location: Vijayawada
+
+Career Objective:
+Seeking opportunities to work as a Full Stack Developer and contribute to innovative software solutions.
+
+Education:
+B.Tech Information Technology
+CGPA: 8.5
+
+Skills:
+Java, Python, HTML, CSS, JavaScript, React, NodeJS, MySQL
+
+Experience:
+1
+
+Projects:
+1. Online Food Ordering System
+2. E-Commerce Website
+
+Certifications:
+Oracle
+
+Achievements:
+- Winner of Coding Contest.
+- Developed multiple web applications.
+
+Languages:
+English, Telugu

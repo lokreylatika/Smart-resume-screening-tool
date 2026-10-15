@@ -1,0 +1,45 @@
+Name: Neha Kapoor
+
+Email: neha.kapoor@example.com
+
+Phone: 9000001004
+
+Location: Pune
+
+Career Objective:
+Creative and motivated software professional seeking a Frontend Developer position where I can build responsive, accessible, and user-friendly web applications.
+
+Education:
+B.E. in Computer Engineering
+Pune Institute of Computer Technology
+CGPA: 8.8
+
+Skills:
+HTML, CSS, JavaScript, React, TypeScript, Git, REST APIs, Node.js, SQL, UI Development
+
+Experience:
+2 years
+
+Projects:
+1. Online Learning Portal
+   Developed a responsive learning platform using React and JavaScript.
+   Implemented course browsing, user dashboards, and progress tracking.
+
+2. Expense Tracker
+   Built a web application for recording and categorizing personal expenses.
+   Added charts and filtering features for monthly spending analysis.
+
+Certifications:
+Meta Front-End Developer
+JavaScript Algorithms and Data Structures
+
+Achievements:
+- Built and deployed 5+ academic and personal web projects.
+- Won a university UI/UX design competition.
+- Conducted a workshop on modern JavaScript development.
+
+Languages:
+English, Hindi, Marathi
+
+Interests:
+UI Development, Web Design, Product Development

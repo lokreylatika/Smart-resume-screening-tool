@@ -1,0 +1,45 @@
+Name: Ananya Verma
+
+Email: ananya.verma@example.com
+
+Phone: 9000001007
+
+Location: Mumbai
+
+Career Objective:
+Motivated Electronics and Computer Engineering graduate seeking a Software Engineer position where I can use my programming, cloud, and problem-solving abilities to develop reliable technology solutions.
+
+Education:
+B.E. in Electronics and Computer Engineering
+University of Mumbai
+CGPA: 8.9
+
+Skills:
+Python, JavaScript, React, Node.js, MongoDB, AWS, Git, REST APIs, HTML, CSS, Machine Learning
+
+Experience:
+1.5 years
+
+Projects:
+1. Smart Attendance System
+   Developed an automated attendance application using Python and machine learning concepts.
+   Implemented student identification, attendance records, and reporting features.
+
+2. Event Booking Platform
+   Built a full-stack web application for creating and booking events.
+   Developed frontend components using React and backend services using Node.js.
+
+Certifications:
+AWS Certified Cloud Practitioner
+Machine Learning with Python Certification
+
+Achievements:
+- Completed 250+ coding and machine learning challenges.
+- Participated in a university-level innovation challenge.
+- Won first prize in an inter-college project exhibition.
+
+Languages:
+English, Hindi, Marathi, Gujarati
+
+Interests:
+Machine Learning, Cloud Computing, Full-Stack Development, Technology Innovation

@@ -1,0 +1,45 @@
+Name: Aarav Mehta
+
+Email: aarav.mehta@example.com
+
+Phone: 9000001001
+
+Location: Bengaluru
+
+Career Objective:
+Enthusiastic Computer Science graduate seeking a Software Engineer position where I can contribute to application development, problem-solving, and scalable software solutions.
+
+Education:
+B.Tech (http://B.Tech/) in Computer Science Engineering
+Vellore Institute of Technology
+CGPA: 8.7
+
+Skills:
+Java, Python, C++, SQL, Spring Boot, React, Git, Data Structures, Algorithms, REST APIs
+
+Experience:
+1.5 years
+
+Projects:
+1. E-Commerce Order Management System
+   Developed a backend application using Java and Spring Boot.
+   Implemented order processing, inventory tracking, and REST APIs.
+
+2. Online Quiz Platform
+   Built a web-based quiz application using React, Java, and MySQL.
+   Added user authentication and automated score calculation.
+
+Certifications:
+AWS Certified Cloud Practitioner
+Java Programming Certification
+
+Achievements:
+- Solved 250+ coding problems on LeetCode.
+- Participated in a national-level coding competition.
+- Secured a top position in a university hackathon.
+
+Languages:
+English, Hindi, Kannada
+
+Interests:
+Backend Development, Cloud Computing, Competitive Programming

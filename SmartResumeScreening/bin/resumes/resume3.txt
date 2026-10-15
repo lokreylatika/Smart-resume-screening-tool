@@ -1,0 +1,34 @@
+Name: Sai Kumar
+
+Email: saikumar@gmail.com
+
+Phone: 9123456780
+
+Location: Guntur
+
+Career Objective:
+To secure a challenging position in a reputed organization and utilize my technical skills effectively.
+
+Education:
+B.Tech Artificial Intelligence
+CGPA: 8.7
+
+Skills:
+Python, SQL, AWS, Machine Learning, Data Structures, Algorithms, MongoDB
+
+Experience:
+3
+
+Projects:
+1. Crime Hotspot Analysis System
+2. Intelligent Recruitment and Talent Analytics Platform
+
+Certifications:
+AWS
+
+Achievements:
+- Published research paper on Machine Learning.
+- Completed AI and Data Science Internship.
+
+Languages:
+English, Telugu, Hindi

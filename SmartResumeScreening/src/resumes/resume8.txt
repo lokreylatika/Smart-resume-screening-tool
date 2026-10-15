@@ -1,0 +1,45 @@
+Name: Arjun Iyer
+
+Email: arjun.iyer@example.com
+
+Phone: 9000001005
+
+Location: Chennai
+
+Career Objective:
+Analytical Computer Science graduate seeking a Data Analyst or Software Developer opportunity where I can combine programming, SQL, data analysis, and problem-solving skills to deliver meaningful business solutions.
+
+Education:
+B.Tech (http://B.Tech/) in Computer Science and Engineering
+SRM Institute of Science and Technology
+CGPA: 8.6
+
+Skills:
+Python, SQL, Java, Pandas, NumPy, Power BI, Excel, MySQL, Git, Data Structures, Machine Learning
+
+Experience:
+1 year
+
+Projects:
+1. Customer Churn Prediction System
+   Developed a machine learning model to identify customers at risk of leaving.
+   Performed data preprocessing, feature analysis, and model evaluation using Python.
+
+2. Business Sales Dashboard
+   Created an interactive Power BI dashboard for analyzing regional sales performance.
+   Used SQL to prepare and transform business data.
+
+Certifications:
+Google Data Analytics Professional Certificate
+Python for Everybody
+
+Achievements:
+- Completed 300+ SQL and programming practice problems.
+- Participated in an inter-college data science competition.
+- Published a technical project presentation at a university symposium.
+
+Languages:
+English, Tamil, Hindi
+
+Interests:
+Data Science, Machine Learning, Analytics, Programming

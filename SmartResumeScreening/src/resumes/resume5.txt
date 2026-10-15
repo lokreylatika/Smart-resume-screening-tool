@@ -1,0 +1,45 @@
+Name: Priya Nair
+
+Email: priya.nair@example.com
+
+Phone: 9000001002
+
+Location: Kochi
+
+Career Objective:
+Detail-oriented Information Technology graduate seeking a Software Developer role to apply programming, database, and web development skills while contributing to innovative projects.
+
+Education:
+B.Tech (http://B.Tech/) in Information Technology
+Amrita Vishwa Vidyapeetham
+CGPA: 9.1
+
+Skills:
+Python, Java, SQL, Django, JavaScript, HTML, CSS, PostgreSQL, Git, REST API, Data Analysis
+
+Experience:
+2 years
+
+Projects:
+1. Healthcare Appointment Portal
+   Developed a web application for managing doctor appointments and patient schedules.
+   Implemented authentication, appointment booking, and database management.
+
+2. Sales Analytics Dashboard
+   Created a Python-based dashboard to analyze sales trends and business metrics.
+   Used SQL queries for data extraction and reporting.
+
+Certifications:
+Python for Data Science
+Microsoft Azure Fundamentals
+
+Achievements:
+- Solved 200+ programming challenges.
+- Presented a project at a college technology symposium.
+- Received an academic excellence award.
+
+Languages:
+English, Malayalam, Hindi
+
+Interests:
+Data Analytics, Web Development, Artificial Intelligence

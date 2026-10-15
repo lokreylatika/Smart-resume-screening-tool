@@ -1,0 +1,43 @@
+Name: Rahul Sharma
+
+Email: rahulsharma@gmail.com
+
+Phone: 9876543210
+
+Location: Hyderabad
+
+Career Objective:
+Motivated Computer Science graduate seeking a Software Developer position where I can apply my programming, problem-solving, and software development skills.
+
+Education:
+B.Tech in Computer Science Engineering
+Koneru Lakshmaiah University
+CGPA: 8.9
+
+Skills:
+Java, Python, SQL, Spring Boot, AWS, Data Structures, Algorithms, HTML, CSS, JavaScript
+
+Experience:
+2
+
+Projects:
+1. Smart Resume Screening Tool
+   Developed a resume analysis system using Java and DSA concepts.
+   Implemented skill matching and candidate ranking.
+
+2. Student Management System
+   Built a database-driven application using Java and MySQL.
+
+Certifications:
+AWS
+
+Achievements:
+- Solved 300+ coding problems on LeetCode.
+- Participated in Smart India Hackathon.
+- Completed Java Programming Certification.
+
+Languages:
+English, Hindi, Telugu
+
+Interests:
+Competitive Programming, Software Development, Artificial Intelligence
